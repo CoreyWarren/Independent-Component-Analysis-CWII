@@ -1,4 +1,4 @@
-This is an Independent Component Analysis python program designed by a team of computer science students. 
+This is an Independent Component Analysis python program designed by a team of computer science students. Corey Warren was put in charge of the code.
 The essay details the mathematics and science behind the procedures, and the code is well-documented and commented all throughout.
 
 # What is ICA?
